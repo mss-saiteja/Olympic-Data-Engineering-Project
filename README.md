@@ -1,3 +1,3 @@
 # Olympic-Data-Engineering-Project
 
-Olypic-Azure-End-To-End-Project
+Olympic-Azure-End-To-End-Project
